@@ -17,10 +17,10 @@
   <a href="https://www.linkedin.com/in/kratika-mittal-1423a2197/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="kratikarajv@gmail.com">
+  <a href="mailto:kratikarajv@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+
 </p>
 
 <h3 align='center'>
@@ -32,7 +32,7 @@
   
 <img src="https://img.shields.io/badge/Flutter-20232A?logo=flutter&logoColor=blue" />
 <img src="https://img.shields.io/badge/Dart-20232A?logo=dart&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-20232A?logo=html&logoColor=red" />
+<img src="https://img.shields.io/badge/HTML5-20232A?logo=html5&logoColor=red" />
 <img src="https://img.shields.io/badge/CSS3-20232A?logo=css3&logoColor=red" />
 <img src="https://img.shields.io/badge/Javascript-20232A?logo=javascript&logoColor=amber" />
 <img src="https://img.shields.io/badge/Python-20232A?logo=python&logoColor=yellow" />
