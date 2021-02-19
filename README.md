@@ -24,7 +24,7 @@
 </p>
 
 <h3 align='center'>
-  TECHNOLOGIES
+  TOOLS AND TECHNOLOGIES
 </h3>
 
 
