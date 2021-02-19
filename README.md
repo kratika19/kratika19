@@ -1,34 +1,54 @@
-### Hi there 👋 I'm Kratika Mittal
+
+<h1 align='center'>
+  Hi there 👋 I'm Kratika 💻
+</h1>
+
+<h4 align='center'>
+  I'm a CSE Undergrad student at NITH. I'm a flutter developer & an open-source contributor. Feel free to connect with me. 
+</h4>
 
 
-- 🔭 I’m currently working on ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+<p align='center'>
+  
+  <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp;-->
+  <a href="https://www.linkedin.com/in/kratika-mittal-1423a2197/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="kratikarajv@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-[![Kratika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kratika19&count_private=true&show_icons=true&theme=react)](https://github.com/kratika19/github-readme-stats) &nbsp; &nbsp; &nbsp;
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kratika19&theme=react)](https://github.com/kratika19/github-readme-stats)
+<h3 align='center'>
+  TECHNOLOGIES
+</h3>
 
-<!--
-**kratika19/kratika19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align='center'>
+  
+<img src="https://img.shields.io/badge/Flutter-000000?logo=flutter&logoColor=blue" />
+<img src="https://img.shields.io/badge/Dart-000000?logo=dart&logoColor=blue" />
+<img src="https://img.shields.io/badge/HTML5-000000?logo=html&logoColor=red" />
+<img src="https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=red" />
+<img src="https://img.shields.io/badge/Javascript-000000?logo=javascript&logoColor=amber" />
+<img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Bootstrap-000000?logo=bootstrap&logoColor=purple" />
+<img src="https://img.shields.io/badge/C++-000000?logo=c%2B%2B&logoColor=blue" />
+<img src="https://img.shields.io/badge/java-000000?logo=java&logoColor=red" />
+<img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=purple" />
+<img src="https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=red" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+</p>
+
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kratika19&count_private=true&show_icons=true&theme=react"></a>
+</p>
