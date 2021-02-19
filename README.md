@@ -3,9 +3,9 @@
   Hi there 👋 I'm Kratika 💻
 </h1>
 
-<h4 align='center'>
+<h3 align='center'>
   I'm a CSE Undergrad student at NITH. I'm a flutter developer & an open-source contributor. Feel free to connect with me. 
-</h4>
+</h3>
 
 
 
