@@ -30,19 +30,19 @@
 
 <p align='center'>
   
-<img src="https://img.shields.io/badge/Flutter-000000?logo=flutter&logoColor=blue" />
-<img src="https://img.shields.io/badge/Dart-000000?logo=dart&logoColor=blue" />
-<img src="https://img.shields.io/badge/HTML5-000000?logo=html&logoColor=red" />
-<img src="https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=red" />
-<img src="https://img.shields.io/badge/Javascript-000000?logo=javascript&logoColor=amber" />
-<img src="https://img.shields.io/badge/Python-000000?logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?logo=bootstrap&logoColor=purple" />
-<img src="https://img.shields.io/badge/C++-000000?logo=c%2B%2B&logoColor=blue" />
-<img src="https://img.shields.io/badge/java-000000?logo=java&logoColor=red" />
-<img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=purple" />
-<img src="https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Github-000000?logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?logo=git&logoColor=red" />
+<img src="https://img.shields.io/badge/Flutter-20232A?logo=flutter&logoColor=blue" />
+<img src="https://img.shields.io/badge/Dart-20232A?logo=dart&logoColor=blue" />
+<img src="https://img.shields.io/badge/HTML5-20232A?logo=html&logoColor=red" />
+<img src="https://img.shields.io/badge/CSS3-20232A?logo=css3&logoColor=red" />
+<img src="https://img.shields.io/badge/Javascript-20232A?logo=javascript&logoColor=amber" />
+<img src="https://img.shields.io/badge/Python-20232A?logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Bootstrap-20232A?logo=bootstrap&logoColor=purple" />
+<img src="https://img.shields.io/badge/C++-20232A?logo=c%2B%2B&logoColor=blue" />
+<img src="https://img.shields.io/badge/java-20232A?logo=java&logoColor=red" />
+<img src="https://img.shields.io/badge/C-20232A?logo=c&logoColor=purple" />
+<img src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Github-20232A?logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-20232A?logo=git&logoColor=red" />
 
 
   
