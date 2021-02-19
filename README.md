@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi there 👋 I'm Kratika Mittal
+
+
+- 🔭 I’m currently working on ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+[![Kratika's GitHub stats](https://github-readme-stats.vercel.app/api?username=kratika19&count_private=true&show_icons=true&theme=react)](https://github.com/kratika19/github-readme-stats) &nbsp; &nbsp; &nbsp;
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kratika19&theme=react)](https://github.com/kratika19/github-readme-stats)
 
 <!--
 **kratika19/kratika19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
