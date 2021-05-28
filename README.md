@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align='center'>
-  I'm a CSE Undergrad student at NITH. I'm a flutter developer & an open-source contributor. Feel free to connect with me at :
+  I'm a CSE Undergrad student at NITH. I'm a flutter and Front-end Web Developer developer & an open-source contributor. Feel free to connect with me at :
 </h3>
 
 
