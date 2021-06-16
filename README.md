@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Python-20232A?logo=python&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Bootstrap-20232A?logo=bootstrap&logoColor=purple" />
 <img src="https://img.shields.io/badge/C++-20232A?logo=c%2B%2B&logoColor=blue" />
-<img src="https://img.shields.io/badge/java-20232A?logo=java&logoColor=red" />
+<img src="https://img.shields.io/badge/java-20232A?logo=java&logoColor=yellow" />
 <img src="https://img.shields.io/badge/C-20232A?logo=c&logoColor=purple" />
 <img src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Github-20232A?logo=github&logoColor=white" />
