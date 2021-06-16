@@ -43,6 +43,9 @@
 <img src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Github-20232A?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-20232A?logo=git&logoColor=red" />
+<img src="https://img.shields.io/badge/Git-20232A?logo=react&logoColor=blue" />
+<img src="https://img.shields.io/badge/Git-20232A?logo=django&logoColor=green" />
+
 
 
   
