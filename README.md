@@ -45,13 +45,17 @@
 <img src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&logoColor=yellow" />
 <img src="https://img.shields.io/badge/Github-20232A?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-20232A?logo=git&logoColor=red" />
-
-
-
   
 </p>
 
 
+
 <p align='center'>
+      <a href="https://github.com/kratika19/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kratika Mittal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kratika19&theme=react"/>
+        &nbsp;
+    </a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kratika19&count_private=true&show_icons=true&theme=react"></a>
+  <br><br>
+   <a href="https://github.com/kratika19/github-readme-stats"><img alt="Kratika Mittal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratika19&langs_count=8&count_private=true&layout=compact&theme=react" /></a>
 </p>
